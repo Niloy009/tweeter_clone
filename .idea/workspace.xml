@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70bf2c2e-0a32-460b-8fb6-135c1fb67a9a" name="Default Changelist" comment="" />
+    <list default="true" id="70bf2c2e-0a32-460b-8fb6-135c1fb67a9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -121,6 +126,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gpOYyBCcW5lxSiNxLvWqd3xANw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -153,7 +159,10 @@
       <updated>1598808118422</updated>
       <workItem from="1598808119469" duration="765000" />
       <workItem from="1598808915052" duration="41000" />
-      <workItem from="1598818731889" duration="6456000" />
+      <workItem from="1598818731889" duration="6548000" />
+      <workItem from="1598893273883" duration="82000" />
+      <workItem from="1598917872644" duration="1254000" />
+      <workItem from="1598990495629" duration="620000" />
     </task>
     <servers />
   </component>
@@ -176,6 +185,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="321" y="70" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598808306596" />
+    <state x="532" y="236" key="run.anything.popup" timestamp="1598893345889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="236" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598893345889" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1598825930426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
