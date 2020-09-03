@@ -22,12 +22,12 @@
 <body>
 <div id="app">
     <section class="px-8 py-8">
-        <header>
+        <header class="container mx-auto">
             <h1><img src="/images/logo.svg" alt="tweeter"></h1>
         </header>
     </section>
     <section class="px-8">
-        <main>
+        <main class="container mx-auto">
             @yield('content')
         </main>
     </section>
