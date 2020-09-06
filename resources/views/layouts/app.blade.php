@@ -21,7 +21,7 @@
 </head>
 <body>
 <div id="app">
-    <section class="px-8 py-8">
+    <section class="px-8 py-8 mb-6">
         <header class="container mx-auto">
             <h1><img src="/images/logo.svg" alt="tweeter"></h1>
         </header>
