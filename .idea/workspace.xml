@@ -23,11 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70bf2c2e-0a32-460b-8fb6-135c1fb67a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/_friends-list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/_sidebar-links.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +183,8 @@
       <workItem from="1598893273883" duration="82000" />
       <workItem from="1598917872644" duration="1254000" />
       <workItem from="1598990495629" duration="1020000" />
-      <workItem from="1599164725568" duration="3912000" />
+      <workItem from="1599164725568" duration="4253000" />
+      <workItem from="1599524859536" duration="397000" />
     </task>
     <servers />
   </component>
@@ -207,6 +204,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="615" y="283" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598827738592">
