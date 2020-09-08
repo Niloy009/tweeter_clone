@@ -2,7 +2,7 @@
 
 <ul>
     @foreach(range(1,8) as $index)
-        <li>
+        <li class="mb-4">
             <div class="flex items-center text-sm">
                 <img class="rounded-full mr-2" src="https://picsum.photos/50/50" alt="images">
                 John Doe
